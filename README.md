@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Kişisel Geliştirici Portfolyosu
 
-## Getting Started
+Merhaba! Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, minimalist ve performans odaklı kişisel portfolyo web sitemdir.
 
-First, run the development server:
+Projelerimi sergilemek, yeteneklerimi listelemek ve deneyimlerimi paylaşmak amacıyla **modüler** bir yapıda tasarlanmıştır.
+
+🔗 **Canlı Demo:** [Buraya Vercel Linkini Yapıştıracaksın]
+
+## 🛠️ Teknolojiler ve Araçlar
+
+Bu proje aşağıdaki teknoloji yığını ile geliştirilmiştir:
+
+- **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+- **Dil:** [TypeScript](https://www.typescriptlang.org/)
+- **Stil:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animasyon:** [Framer Motion](https://www.framer.com/motion/) & CSS Animations
+- **İkonlar:** [Lucide React](https://lucide.dev/)
+- **Deployment:** [Vercel](https://vercel.com/)
+
+## ✨ Özellikler
+
+- **🎨 Modern & Minimalist Tasarım:** Göz yormayan karanlık mod (Dark Mode) ve "Aurora" arka plan efektleri.
+- **📱 Tamamen Responsive:** Mobilden masaüstüne kadar her cihazda kusursuz görünüm.
+- **⚡ Yüksek Performans:** Next.js Server Components ve optimize edilmiş görseller.
+- **🧩 Modüler Veri Yapısı:** Projeler, yetenekler ve hakkımda kısımları koddan bağımsız `data` klasöründen yönetilir.
+- **✨ Akıcı Animasyonlar:** Sayfa geçişleri ve scroll animasyonları.
+
+## 📂 Proje Yapısı
+
+Proje, sürdürülebilirlik için temiz bir klasör yapısına sahiptir:
+
+```bash
+src/
+├── app/          # Next.js App Router sayfaları
+├── components/   # Tekrar kullanılabilir UI bileşenleri (Navbar, Hero, vb.)
+├── data/         # İçerik verileri (Projects, Skills, About verileri burada)
+├── types/        # TypeScript tip tanımlamaları
+
+```
+
+## 🚀 Kurulum (Kendi Bilgisayarınızda Çalıştırma)
+
+Bu projeyi klonlamak ve geliştirmek isterseniz:
+
+1. **Projeyi klonlayın:**
+
+```bash
+git clone [https://github.com/KULLANICI_ADIN/portfolyom.git](https://github.com/KULLANICI_ADIN/portfolyom.git)
+
+```
+
+2. **Klasöre gidin:**
+
+```bash
+cd portfolyom
+
+```
+
+3. **Paketleri yükleyin:**
+
+```bash
+npm install
+
+```
+
+4. **Geliştirme sunucusunu başlatın:**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tarayıcınızda `http://localhost:3000` adresine giderek görüntüleyebilirsiniz.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📝 Lisans
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Bu projenin **kaynak kodu** [MIT Lisansı](https://www.google.com/search?q=LICENSE) altında açık kaynaklıdır. İstediğiniz gibi inceleyebilir veya fork edebilirsiniz.
 
-## Learn More
+_Not: Sitedeki kişisel görseller, proje içerikleri ve metinler telif hakkına tabidir._
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="center">
+Developed with ❤️ by <a href="https://www.google.com/search?q=https://github.com/KULLANICI_ADIN">OziDev</a>
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
