@@ -4,7 +4,7 @@ Merhaba! Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, minim
 
 Projelerimi sergilemek, yeteneklerimi listelemek ve deneyimlerimi paylaşmak amacıyla **modüler** bir yapıda tasarlanmıştır.
 
-🔗 **Canlı Demo:** [Buraya Vercel Linkini Yapıştıracaksın]
+🔗 **Canlı Demo:** [Kişisel Portfolyom](https://ozidev.vercel.app/)
 
 ## 🛠️ Teknolojiler ve Araçlar
 
@@ -45,7 +45,7 @@ Bu projeyi klonlamak ve geliştirmek isterseniz:
 1. **Projeyi klonlayın:**
 
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/portfolyom.git](https://github.com/KULLANICI_ADIN/portfolyom.git)
+git clone [https://github.com/hazreti-ozay/personalportfolio.git](https://github.com/hazreti-ozay/personalportfolio.git)
 
 ```
 
@@ -81,9 +81,5 @@ _Not: Sitedeki kişisel görseller, proje içerikleri ve metinler telif hakkına
 ---
 
 <p align="center">
-Developed with ❤️ by <a href="https://www.google.com/search?q=https://github.com/KULLANICI_ADIN">OziDev</a>
+Developed with ❤️ by <a href="https://github.com/hazreti-ozay">OziDev</a>
 </p>
-
-```
-
-```
