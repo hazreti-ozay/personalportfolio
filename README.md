@@ -4,7 +4,11 @@ Merhaba! Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, minim
 
 Projelerimi sergilemek, yeteneklerimi listelemek ve deneyimlerimi paylaşmak amacıyla **modüler** bir yapıda tasarlanmıştır.
 
+<<<<<<< HEAD
 **Canlı Demo:** [Kişisel Portfolyom](https://ozidev.vercel.app/)
+=======
+ **Canlı Demo:** [Kişisel Portfolyom](https://ozidev.vercel.app/)
+>>>>>>> 1f815a1b02c4c65c972d24c6da1142d59a108a92
 
 ## Teknolojiler ve Araçlar
 
