@@ -1,4 +1,4 @@
-#  Kişisel Geliştirici Portfolyosu
+# Kişisel Geliştirici Portfolyosu
 
 Merhaba! Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, minimalist ve performans odaklı kişisel portfolyo web sitemdir.
 
@@ -6,7 +6,7 @@ Projelerimi sergilemek, yeteneklerimi listelemek ve deneyimlerimi paylaşmak ama
 
  **Canlı Demo:** [Kişisel Portfolyom](https://ozidev.vercel.app/)
 
-##  Teknolojiler ve Araçlar
+## Teknolojiler ve Araçlar
 
 Bu proje aşağıdaki teknoloji yığını ile geliştirilmiştir:
 
@@ -25,7 +25,7 @@ Bu proje aşağıdaki teknoloji yığını ile geliştirilmiştir:
 - ** Modüler Veri Yapısı:** Projeler, yetenekler ve hakkımda kısımları koddan bağımsız `data` klasöründen yönetilir.
 - ** Akıcı Animasyonlar:** Sayfa geçişleri ve scroll animasyonları.
 
-##  Proje Yapısı
+## Proje Yapısı
 
 Proje, sürdürülebilirlik için temiz bir klasör yapısına sahiptir:
 
@@ -38,7 +38,7 @@ src/
 
 ```
 
-## 🚀 Kurulum (Kendi Bilgisayarınızda Çalıştırma)
+## Kurulum (Kendi Bilgisayarınızda Çalıştırma)
 
 Bu projeyi klonlamak ve geliştirmek isterseniz:
 
@@ -72,7 +72,7 @@ npm run dev
 
 Tarayıcınızda `http://localhost:3000` adresine giderek görüntüleyebilirsiniz.
 
-##  Lisans
+## Lisans
 
 Bu projenin **kaynak kodu** [MIT Lisansı](https://www.google.com/search?q=LICENSE) altında açık kaynaklıdır. İstediğiniz gibi inceleyebilir veya fork edebilirsiniz.
 
