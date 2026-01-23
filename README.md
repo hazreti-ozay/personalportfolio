@@ -74,7 +74,7 @@ Tarayıcınızda `http://localhost:3000` adresine giderek görüntüleyebilirsin
 
 ## Lisans
 
-Bu projenin **kaynak kodu** [MIT Lisansı](https://www.google.com/search?q=LICENSE) altında açık kaynaklıdır. İstediğiniz gibi inceleyebilir veya fork edebilirsiniz.
+Bu projenin **kaynak kodu** [MIT Lisansı](https://opensource.org/license/mit) altında açık kaynaklıdır. İstediğiniz gibi inceleyebilir veya fork edebilirsiniz.
 
 _Not: Sitedeki kişisel görseller, proje içerikleri ve metinler telif hakkına tabidir._
 
