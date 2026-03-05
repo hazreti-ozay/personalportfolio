@@ -78,7 +78,7 @@ export default function Navbar() {
             <Linkedin size={20} />
           </Link>
           <Link
-            href="https://discord.gg/perdaz"
+            href="https://discord.gg/EdPVy6XVy"
             target="_blank"
             className="text-gray-400 hover:text-[#5865F2] transition-colors"
           >
