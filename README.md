@@ -80,6 +80,6 @@ Bu projenin **kaynak kodu** [MIT Lisansı](https://opensource.org/license/mit) a
 
 ---
 
-<p align="center">
-Developed with ❤️ by <a href="[https://github.com/hazreti-ozay](https://github.com/hazreti-ozay)">OziDev</a>
-</p>
+<div align="center">
+  Developed with ❤️ by <a href="https://github.com/hazreti-ozay">OziDev</a>
+</div>
