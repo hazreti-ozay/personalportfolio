@@ -86,8 +86,8 @@ export const aboutData: AboutData = {
           description: "Ekonomi ve ekonomi tarihi konularına ilgi duyuyorum. Farklı ekonomik sistemleri ve tarih boyunca yaşanan ekonomik olayları incelemek ve okumalar yapmak rutinimin bir parçası.",
         },
         {
-          title: "Dijital Müziik Üretimi",
-          description: "Müzik üretimi ile ilgileniyorum ve FL Studio kullanarak dijital müzikler yapıyorrum.",
+          title: "Dijital Müzik Üretimi",
+          description: "Müzik üretimi ile ilgileniyorum ve FL Studio kullanarak dijital müzikler yapıyorum.",
         }
       ]
     }

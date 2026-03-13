@@ -15,12 +15,12 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        <h2 className="text-lg md:text-xl text-blue-400 font-medium mb-4">
+        <h2 className="text-lg md:text-xl text-gray-400 font-medium mb-4">
           Merhaba, Ben Özay..
         </h2>
         <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
           Modern Web <br />
-          <span className="text-gray-400">Geliştirici.</span>
+          <span className="text-blue-400">Geliştirici.</span>
         </h1>
         <p className="max-w-xl mx-auto text-gray-400 text-lg mb-8 leading-relaxed">
           Fikirleri dijital gerçekliğe dönüştüren, kullanıcı odaklı ve yenilikçi
