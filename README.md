@@ -19,11 +19,11 @@ Bu proje aşağıdaki teknoloji yığını ile geliştirilmiştir:
 
 ## Özellikler
 
-- ** Modern & Minimalist Tasarım:** Göz yormayan karanlık mod (Dark Mode) ve "Aurora" arka plan efektleri.
-- ** Tamamen Responsive:** Mobilden masaüstüne kadar her cihazda kusursuz görünüm.
-- ** Yüksek Performans:** Next.js Server Components ve optimize edilmiş görseller.
-- ** Modüler Veri Yapısı:** Projeler, yetenekler ve hakkımda kısımları koddan bağımsız `data` klasöründen yönetilir.
-- ** Akıcı Animasyonlar:** Sayfa geçişleri ve scroll animasyonları.
+- **🎨 Modern & Minimalist Tasarım:** Göz yormayan karanlık mod (Dark Mode) ve "Aurora" arka plan efektleri.
+- **📱 Tamamen Responsive:** Mobilden masaüstüne kadar her cihazda kusursuz görünüm.
+- **⚡ Yüksek Performans:** Next.js Server Components ve optimize edilmiş görseller.
+- **🧩 Modüler Veri Yapısı:** Projeler, yetenekler ve hakkımda kısımları koddan bağımsız `data` klasöründen yönetilir.
+- **✨ Akıcı Animasyonlar:** Sayfa geçişleri ve scroll animasyonları.
 
 ## Proje Yapısı
 
@@ -45,14 +45,14 @@ Bu projeyi klonlamak ve geliştirmek isterseniz:
 1. **Projeyi klonlayın:**
 
 ```bash
-git clone [https://github.com/hazreti-ozay/personalportfolio.git](https://github.com/hazreti-ozay/personalportfolio.git)
+git clone https://github.com/hazreti-ozay/personalportfolio.git
 
 ```
 
 2. **Klasöre gidin:**
 
 ```bash
-cd portfolyom
+cd personalportfolio
 
 ```
 
@@ -76,10 +76,10 @@ Tarayıcınızda `http://localhost:3000` adresine giderek görüntüleyebilirsin
 
 Bu projenin **kaynak kodu** [MIT Lisansı](https://opensource.org/license/mit) altında açık kaynaklıdır. İstediğiniz gibi inceleyebilir veya fork edebilirsiniz.
 
-_Not: Sitedeki kişisel görseller, proje içerikleri ve metinler telif hakkına tabidir._
+*Not: Sitedeki kişisel görseller, proje içerikleri ve metinler telif hakkına tabidir.*
 
 ---
 
 <p align="center">
-Developed with ❤️ by <a href="https://github.com/hazreti-ozay">OziDev</a>
+Developed with ❤️ by <a href="[https://github.com/hazreti-ozay](https://github.com/hazreti-ozay)">OziDev</a>
 </p>
