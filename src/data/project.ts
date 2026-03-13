@@ -4,7 +4,7 @@ export const projects: Project[] = [
   {
     id: 1,
     title: "Cemiyet-i Perdaz Dijital Müzesi",
-    description: "Next.js ve Firebase tabanlı, Discord entegrasyonuna sahip topluluk dijital sanat arşivi. Sanatçıların eserlerini sergilediği interaktif platform.",
+    description: "Next.js ve Firebase tabanlı, Discord entegrasyonuna sahip topluluk dijital sanat arşivi. Eserlerin sergilendiği interaktif bir platform.",
     tech: ["Next.js 14", "Firestore", "Discord.js", "Tailwind CSS"],
     github: "https://github.com/hazreti-ozay/cemiyetiperdazmuze", // Linkim varsa
     link: "https://cemiyetiperdazmuze.vercel.app/", // Varsa canlı link
