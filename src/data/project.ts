@@ -19,4 +19,13 @@ export const projects: Project[] = [
     link: "https://hazreti-ozay.github.io/faterollerdenemesi/",
     image: "/projects/fate.jpg",
   },
+  {
+    id: 3, // Sıradaki ID
+    title: "SnakeForCan (Nokia 3310 Emulator)", //
+    description: "Efsanevi Nokia 3310 Yılan oyununun (Snake) modern web teknolojileri ile geliştirilmiş hiper-gerçekçi 3D simülasyonu. Retro LCD ekran parlamasını ve tüplü ekran (CRT) piksel efektlerini tarayıcıya taşıyan nostaljik bir 'Vibe Coding' projesi.", //
+    tech: ["React (Vite)", "Tailwind CSS v4", "CSS Animations", "Custom Hooks"], //
+    github: "https://github.com/hazreti-ozay/snakeforcan", //
+    link: "https://snakeforcan.vercel.app/", //
+    image: "/projects/snakeforcan.png", // Birazdan ekleyeceğimiz görselin yolu
+  }
 ];
