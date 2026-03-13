@@ -4,7 +4,7 @@ export const projects: Project[] = [
   {
     id: 1,
     title: "Cemiyet-i Perdaz Dijital Müzesi",
-    description: "Next.js ve Firebase tabanlı, Discord entegrasyonuna sahip topluluk odaklı dijital sanat arşivi. Sanatçıların eserlerini sergilediği interaktif bir platform.",
+    description: "Next.js ve Firebase tabanlı, Discord entegrasyonuna sahip topluluk dijital sanat arşivi. Sanatçıların eserlerini sergilediği interaktif platform.",
     tech: ["Next.js 14", "Firestore", "Discord.js", "Tailwind CSS"],
     github: "https://github.com/hazreti-ozay/cemiyetiperdazmuze", // Linkim varsa
     link: "https://cemiyetiperdazmuze.vercel.app/", // Varsa canlı link
@@ -22,7 +22,7 @@ export const projects: Project[] = [
   {
     id: 3, // Sıradaki ID
     title: "Retro Snake Emulator", //
-    description: "Efsanevi Nokia 3310 Yılan oyununun (Snake) modern web teknolojileri ile geliştirilmiş hiper-gerçekçi 3D simülasyonu. Retro LCD ekran parlamasını ve tüplü ekran (CRT) piksel efektlerini tarayıcıya taşıyan nostaljik bir 'Vibe Coding' projesi.", //
+    description: "Nokia 3310 Yılan oyununun web teknolojileriyle geliştirilmiş ve modernleştirilmiş nostaljik bir 'Vibe Coding' projesi.",
     tech: ["React (Vite)", "Tailwind CSS v4", "CSS Animations", "Custom Hooks"], //
     github: "https://github.com/hazreti-ozay/snakeforcan", //
     link: "https://snakeforcan.vercel.app/", //
