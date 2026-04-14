@@ -56,7 +56,7 @@ export default function Footer() {
             <Linkedin size={24} />
           </a>
           <a
-            href="https://discord.gg/EdPVy6XVy"
+            href="https://discord.gg/8sj6FR5N2D"
             target="_blank"
             className="p-3 bg-white/5 rounded-full hover:bg-[#5865F2] hover:text-white transition-colors"
           >
