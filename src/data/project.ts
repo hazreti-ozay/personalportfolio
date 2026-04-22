@@ -4,11 +4,20 @@ export const projects: Project[] = [
   {
     id: 1,
     title: "Cemiyet-i Perdaz Dijital Müzesi",
-    description: "Next.js ve Firebase tabanlı, Discord entegrasyonuna sahip topluluk dijital sanat arşivi. Eserlerin sergilendiği interaktif bir platform.",
-    tech: ["Next.js 14", "Firestore", "Discord.js", "Tailwind CSS"],
-    github: "https://github.com/hazreti-ozay/cemiyetiperdazmuze", // Linkim varsa
-    link: "https://cemiyetiperdazmuze.vercel.app/", // Varsa canlı link
-    image: "/projects/cemiyet.jpg", // Resim eklenecek
+    description: "Next.js ve Firebase tabanlı, topluluk odaklı dijital sanat arşivi.",
+    tech: ["Next.js 14", "Firestore", "Tailwind CSS"],
+    // github alanını sildik veya undefined yaptık
+    link: "https://cemiyetiperdazmuze.vercel.app/",
+    image: "/projects/cemiyet.jpg",
+  },
+  {
+    id: 4, // Yeni ID
+    title: "Kuir Anıt (Queer Monument)",
+    description: "Nefret suçlarına karşı dijital toplumsal hafıza mekânı. Siber güvenlik odaklı mimari ve Next.js 14 ile geliştirilmiş saygı duruşu.",
+    tech: ["Next.js 14", "Firebase App Check", "reCAPTCHA v3", "Tailwind CSS"],
+    // github alanını yazmıyoruz (Private olduğu için)
+    link: "https://kuiranit.me/", // Projenin canlı bağlantısı
+    image: "/projects/kuiranit.png",
   },
   {
     id: 2,

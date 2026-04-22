@@ -65,9 +65,10 @@ export default function ProjectCard({ project, index }: Props) {
             <a
               href={project.github}
               target="_blank"
-              className="flex items-center gap-2 text-sm text-gray-400 hover:text-white transition-colors"
+              rel="noopener noreferrer"
+              className="p-2 bg-white/5 hover:bg-white/10 rounded-full transition-colors"
             >
-              <Github size={16} /> Kodlar
+              <Github size={20} />
             </a>
           )}
           {project.link && (
